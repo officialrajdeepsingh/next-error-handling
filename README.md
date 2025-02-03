@@ -2,6 +2,10 @@
 
 It is a demo [next.js](https://nextjs.org) application; it shows how errors occur and looks like how error UI.
 
+---
+[How to Handle Errors in Next.js 15?](https://officialrajdeepsingh.medium.com/7268454d976f)
+--- 
+
 ## Getting Started
 
 The first step is to clone the **next error handling** project with a git command.
